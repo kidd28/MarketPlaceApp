@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MarketPlace</string>
+    <string name="app_logo">App Logo\n</string>
+    <string name="the_MarketPlace">The MarketPlace</string>
+    <string name="find_Yours">Find Yours</string>
+    <string name="Login">Login</string>
+</resources>
